@@ -5,3 +5,4 @@ resolution on 2024
 - bunderstanding react & react native
 - create three big project frontend dan backend
 - create one project mobile application
+- i want to try to apply job as a junior software engineer
