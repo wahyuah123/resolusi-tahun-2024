@@ -5,4 +5,5 @@ resolution on 2024
 - bunderstanding react & react native
 - create three big project frontend dan backend
 - create one project mobile application
-- i want to try to apply job as a junior software engineer
+- but my skill is beginner, i want to create many project to personal branding
+- and then my portofolio can be assiste me to confidence apply a job
