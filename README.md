@@ -1,2 +1,2 @@
 # resolusi-tahun-2024
-repository untuk rencana saya ke depannya
+repository to my future plan
