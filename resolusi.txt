@@ -1,0 +1,7 @@
+resolution on 2024
+- understanding about algorithm and problem solving
+- create project portofolio website 
+- undertanding  tailwind and bootstarp
+- bunderstanding react & react native
+- create three big project frontend dan backend
+- create one project mobile application
