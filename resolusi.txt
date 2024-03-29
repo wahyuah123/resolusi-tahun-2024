@@ -6,4 +6,4 @@ resolution on 2024
 - create three big project frontend dan backend
 - create one project mobile application
 - but my skill is beginner, i want to create many project to personal branding
-- and then my portofolio can be assiste me to confidence apply a job
+- and then my portofolio can be assist me to confidence apply a job
